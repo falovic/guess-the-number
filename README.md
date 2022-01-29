@@ -1,2 +1,4 @@
-# guess-the-number
-Guess The Number
+# Guess The Number
+
+> - Sayı tahmin etme oyunu.
+> - Toplam 5 hakkınız var.
